@@ -2,7 +2,7 @@
 
 Welcome to the **Low-Level Backend Projects Series** — a collection of backend systems built from the ground up using only **pure Python** and **core data structures** like queues, heaps, hash maps, tries, linked lists, and more.
 
-This project is perfect for beginners that thinks the internet and website operate with magic, who wants to go *below the framework* and understand how tools like **Flask**, **Express**, and **Django** work under the hood. Here, you’ll discover not just **how** backend systems are built — but **why** they are designed the way they are.
+This project is perfect for me as a beginner who thinks the internet and websites operate with magic. I want to go *below the framework* and understand how tools like **Flask**, **Express**, and **Django** work under the hood. Here, I’m discovering not just **how** backend systems are built — but **why** they are designed the way they are.
 
 ---
 
@@ -10,17 +10,13 @@ This project is perfect for beginners that thinks the internet and website opera
 
 Frameworks are powerful. But they often hide the fundamentals.
 
-These projects will help you:
+These projects will helped me:
 
 - Build a **deep understanding** of backend systems.
 - Appreciate the **abstractions** provided by frameworks.
 - Learn when and why **specific data structures or algorithms** are used.
 
- A beginner-friendly **guide** on the link below will explain:
-- The problem being solved
-- The reasoning behind each implementation
-- The data structures used and why they were the best fit
-
+ 
 ---
 
 ##  Projects Included
@@ -73,7 +69,5 @@ python3 main.py
 
 All other modules are already imported in main.py, so running it should show the output directly.
 
-##  Get the Full Guide
 
- [Click here to access the full guide on Selar](https://selar.com/5364333436)
 
